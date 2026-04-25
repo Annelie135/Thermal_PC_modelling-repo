@@ -15,3 +15,4 @@ their 95% confidence intervals did not overlap across temperatures or days consi
 
 Results show that the fungus prefers intermedaiate to warm temperatures and showed the highest performance between 25°C and 30°C.
 
+<img width="3300" height="2100" alt="Growth_preds_allfinal25Jan" src="https://github.com/user-attachments/assets/b0653771-c34a-41f9-97f2-7acd8b9a9cf2" />
